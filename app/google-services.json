@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843347838715",
+    "project_id": "inflearn-login-password-real",
+    "storage_bucket": "inflearn-login-password-real.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843347838715:android:e56f6e403ec2c41fc0125e",
+        "android_client_info": {
+          "package_name": "com.example.inflearn_email"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843347838715-8m3nc5c29fcjjak43ufl0bf3uke0o81p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuV3saPhJ9PPYVmVEBxJlt219NcwFdc8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843347838715-8m3nc5c29fcjjak43ufl0bf3uke0o81p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
